@@ -26,6 +26,7 @@ Ingeniero enfocado en el diseño e implementación de sistemas de software efici
 *   **Desarrollo Profesional en Python** – Scripting, Automatización y APIs Corporativas.
 *   **Desarrollo Profesional en React** – Construcción de Interfaces e Integración Frontend.
 *   **Especialización en Django** – Desarrollo Ágil de Aplicaciones Web y APIs REST.
+*   **Curso de Raspberry Pi** – Computación física, IoT (Internet de las Cosas) y sistemas embebidos.
 
 ### Cloud Computing, Inteligencia Artificial y Datos
 *   **Fundamentos de Microsoft Azure** – Infraestructura Cloud y Servicios en la Nube.
@@ -33,6 +34,14 @@ Ingeniero enfocado en el diseño e implementación de sistemas de software efici
 *   **Creación de Proyectos de Ingeniería de Datos** – Modelado y Tuberías (Pipelines) de Datos.
 *   **Introducción al Aprendizaje Automático (Machine Learning)** – Modelado Estadístico y Análisis Predictivo.
 *   **Bases y Conceptos de Ciencia de Datos** – Análisis Exploratorio e Inferencia de Datos.
+*   **Data Analytics Essentials** – Procesamiento estratégico y análisis fundamental de datos.
+*   **Inmersión con IA** – Aplicación práctica de herramientas generativas e Inteligencia Artificial.
+
+### Reconocimientos y Participación en la Comunidad
+*   **Microsoft Most Valuable Professional (MVP)** – Reconocimiento global otorgado por Microsoft por liderazgo técnico y contribuciones a la comunidad.
+*   **Mentor en el Rally Latinoamericano de Innovación** – Liderazgo y orientación de equipos en el desarrollo de ideas y soluciones innovadoras.
+*   **Mentor de Hackathon Nicaragua** – Asesoramiento técnico y estratégico para la creación de soluciones tecnológicas intensivas.
+*   **Certificación Hackathon Georiego** – Participación destacada y resolución de retos en competencia de desarrollo de software.
 
 ---
 
